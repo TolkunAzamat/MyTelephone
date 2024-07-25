@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Набор"
+        android:id="@+id/typingFragment"
+        android:icon="@drawable/call_phone_heart_svgrepo_com" />
+
+    <item
+        android:title="Контакты"
+        android:id="@+id/contactsFragment2"
+        android:icon="@drawable/love_letter_heart_svgrepo_com" />
+</menu>
